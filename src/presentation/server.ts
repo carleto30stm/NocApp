@@ -1,4 +1,4 @@
-import { CheckService } from "../domain/use-case/checks/check-service";
+import { CheckService } from "../domain/use-cases/checks/check-service";
 import { CronService } from "./cron/cron-service";
 
 
